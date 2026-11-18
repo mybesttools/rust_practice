@@ -1,0 +1,6 @@
+[workspace]
+resolver = "3"
+members = ["lessons/*", "exercises/*"]
+
+[workspace.package]
+edition = "2024"
